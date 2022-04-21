@@ -33,6 +33,7 @@ jobs:
           registry-url: 'https://npm.pkg.github.com'
           scope: '@abc-widgets'
       - run: npm ci
+      - run: npm run build --if-present
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
