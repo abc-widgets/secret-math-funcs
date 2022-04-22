@@ -31,7 +31,7 @@ jobs:
         with:
           node-version: '16.x'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@iwsllc'
+          scope: '@abc-widgets'
       - run: npm ci
       - run: npm run build --if-present
       - run: |
