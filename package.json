@@ -1,6 +1,6 @@
 {
   "name": "@abc-widgets/secret-math-funcs",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Demo library",
   "main": "dist/index.js",
   "scripts": {
