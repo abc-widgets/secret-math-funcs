@@ -1,6 +1,6 @@
 {
   "name": "@iwsllc/secret-math-funcs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Demo library",
   "main": "dist/index.js",
   "scripts": {
