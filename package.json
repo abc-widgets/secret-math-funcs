@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abc-widgets/secret-math-funcs.git"
+    "url": "git+https://github.com/iwsllc/demo-gha-lib.git"
   },
   "keywords": [
     "demo"
